@@ -34,17 +34,14 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Rsc-ne-HcL" secondAttribute="trailing" constant="16" id="2a5-sI-Qii"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jij-v4-kHh" secondAttribute="trailing" constant="144" id="7F8-ur-C8k"/>
-                            <constraint firstItem="Rsc-ne-HcL" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="45" id="inN-u5-Dy5"/>
                             <constraint firstItem="jij-v4-kHh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="164" id="kqt-wY-Dvq"/>
-                            <constraint firstItem="Rsc-ne-HcL" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="sl9-3g-kyg"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="jij-v4-kHh" secondAttribute="bottom" constant="48" id="tQh-oE-bue"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="newLabel" destination="Rsc-ne-HcL" id="vJG-tj-t1q"/>
+                        <outlet property="newLabel" destination="gvv-1T-yQH" id="WZ5-J6-l2C"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
